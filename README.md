@@ -1,3 +1,3 @@
-# This is a Meta Backend Capstone Project
+# This is a My Backend Capstone Project On Meta
 
-Project on LittleLemon
+The project is on LitleLemon Restuarant
